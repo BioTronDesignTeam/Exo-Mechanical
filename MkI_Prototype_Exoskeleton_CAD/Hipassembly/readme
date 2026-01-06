@@ -1,0 +1,3 @@
+# file may shoot error -> internal ID for file part.sdlprt not found/doesnt match or something like that,
+# select the belt.sldprt file to replace it, i renamed the file but forgot to reopen the assembly to update it
+# anyway read the commit description for all other info or dm me on discord -> username: sealoz 
