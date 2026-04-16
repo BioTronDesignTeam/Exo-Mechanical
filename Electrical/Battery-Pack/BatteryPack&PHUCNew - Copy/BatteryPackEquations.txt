@@ -1,0 +1,9 @@
+﻿"BatteryLength" = 215mm'BatteryPackLength
+"BatteryWidth" = 44'BatteryPackWidth
+"BatteryHeight"= 130.2'BatteryPackHeight
+"HeavyThick"= 5'WallThickness
+"MedThick"= 3'WallThickness Standard
+"LigThick"= 2'WallThickness Light
+"D1@Boss-Extrude2"="MedThick"*2+"BatteryHeight"
+"D1@Boss-Extrude3"="MedThick"+0.25*"BatteryHeight"
+"D1@Boss-Extrude4"="BatteryLength"+5
